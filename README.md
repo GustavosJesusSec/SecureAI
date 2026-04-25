@@ -2,6 +2,10 @@
 
 Protótipo rápido de monitoramento para pequenos comércios usando webcam local, com foco em prevenção de furtos fora do horário de funcionamento.
 
+## Site:
+
+https://drawer-wake-39874264.figma.site/
+
 ## O que foi desenvolvido
 
 Script principal: `camera_seguranca_mvp.py`
